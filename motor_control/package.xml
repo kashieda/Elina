@@ -7,7 +7,7 @@
   <maintainer email="elinacontrol@todo.todo">elinacontrol</maintainer>
   <license>TODO: License declaration</license>
 
-  <depend>rcply</depend>
+  <depend>rclpy</depend>
   <depend>std_msgs</depend>
 
   #<test_depend>ament_copyright</test_depend>

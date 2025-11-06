@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'bis_wheel_control'
+package_name = 'rear_wheel_control'
 
 setup(
     name=package_name,
